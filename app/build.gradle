@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 'android-P'
     defaultConfig {
-        applicationId "co.zsmb.example.ktplayground"
+        applicationId "co.zsmb.example.rvselector"
         minSdkVersion 'P'
         targetSdkVersion 'P'
         versionCode 1
@@ -17,10 +17,6 @@ android {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
-    }
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_7
-        targetCompatibility JavaVersion.VERSION_1_7
     }
 }
 

@@ -14,7 +14,6 @@ import androidx.recyclerview.selection.ItemDetailsLookup
 import androidx.recyclerview.selection.SelectionTracker
 import androidx.recyclerview.selection.StableIdKeyProvider
 import androidx.recyclerview.selection.StorageStrategy
-import co.zsmb.example.ktplayground.R
 import kotlinx.android.synthetic.main.activity_user.*
 import kotlinx.android.synthetic.main.row_person.view.*
 

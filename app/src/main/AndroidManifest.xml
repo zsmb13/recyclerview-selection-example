@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.zsmb.example.ktplayground">
+    package="co.zsmb.example.rvselector">
 
     <application
         android:allowBackup="true"
